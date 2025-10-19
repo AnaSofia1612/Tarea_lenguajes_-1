@@ -74,6 +74,29 @@ For each test case, the program prints one line with the pairs of equivalent sta
 Example output:
 (1, 2) (3, 4)
 
+---
+
+## 🚀 How to Run the Program in Visual Studio Code
+
+1. **Open the project:**  
+   - Download or clone this repository.  
+   - Open the folder `TAREA_LENGUAJES_#1` in Visual Studio Code.
+
+2. **Verify the structure:**  
+   It should look like this:
+
+   TAREA_LENGUAJES_#1/
+├── src/
+│ └── Main.java
+├── input.txt
+└── README.md
+
+3. **Run the program:**  
+- Make sure you have **Java JDK 17 or higher** installed.  
+- Click the **Run ▶️** button at the top of Visual Studio Code.  
+- The program will automatically read the file `input.txt`  
+  and display the equivalent state pairs of the minimized automaton in the terminal.
+
 
 
 
