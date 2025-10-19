@@ -51,8 +51,7 @@ Each test case represents a DFA **without inaccessible states**, described as fo
 4. `n` lines describing the transition table.  
    Each line has one destination per symbol (in the same order as the alphabet).
 
-Example input:
-
+**Example input:**
 4
 6
 a b
