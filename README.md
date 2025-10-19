@@ -18,10 +18,10 @@
 
 ## 🧩 Description
 
-This program implements the **DFA minimization algorithm** described in *Kozen (1997), Lecture 14*.  
-The algorithm identifies **equivalent states** in a deterministic finite automaton (DFA) and prints them in lexicographical order.
+This program implements the DFA minimization algorithm described in *Kozen (1997), Lecture 14*.  
+The algorithm identifies equivalent states in a deterministic finite automaton (DFA) and prints them in lexicographical order.
 
-The implementation is based on the **table-filling algorithm with dependency propagation**, which marks non-equivalent state pairs and determines equivalent ones.
+The implementation is based on the table-filling algorithm with dependency propagation, which marks non-equivalent state pairs and determines equivalent ones.
 
 ---
 
