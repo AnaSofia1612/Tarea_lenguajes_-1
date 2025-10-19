@@ -84,12 +84,13 @@ Example output:
 
 2. **Verify the structure:**  
    It should look like this:
-
+```
    TAREA_LENGUAJES_#1/
 ├── src/
 │ └── Main.java
 ├── input.txt
 └── README.md
+```
 
 3. **Run the program:**  
 - Make sure you have **Java JDK 17 or higher** installed.  
