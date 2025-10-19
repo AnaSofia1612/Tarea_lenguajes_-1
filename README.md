@@ -52,6 +52,8 @@ Each test case represents a DFA **without inaccessible states**, described as fo
    Each line has one destination per symbol (in the same order as the alphabet).
 
 **Example input:**
+
+```
 4
 6
 a b
@@ -62,8 +64,7 @@ a b
 3 5 5
 4 5 5
 5 5 5
-
-
+```
 ---
 
 ## 🧾 Output Format
