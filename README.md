@@ -98,6 +98,10 @@ Example output:
 - The program will automatically read the file `input.txt`  
   and display the equivalent state pairs of the minimized automaton in the terminal.
 
+ **References**  
+ - IA: Chatgpt
+ - Book: Kozen(1997)
+
 
 
 
